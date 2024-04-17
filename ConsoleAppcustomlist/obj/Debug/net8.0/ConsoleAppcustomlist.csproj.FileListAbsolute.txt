@@ -1,0 +1,14 @@
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\bin\Debug\net8.0\ConsoleAppcustomlist.exe
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\bin\Debug\net8.0\ConsoleAppcustomlist.deps.json
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\bin\Debug\net8.0\ConsoleAppcustomlist.runtimeconfig.json
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\bin\Debug\net8.0\ConsoleAppcustomlist.dll
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\bin\Debug\net8.0\ConsoleAppcustomlist.pdb
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ConsoleAppcustomlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ConsoleAppcustomlist.AssemblyInfoInputs.cache
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ConsoleAppcustomlist.AssemblyInfo.cs
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ConsoleAppcustomlist.csproj.CoreCompileInputs.cache
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ConsoleAppcustomlist.dll
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\refint\ConsoleAppcustomlist.dll
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ConsoleAppcustomlist.pdb
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ConsoleAppcustomlist.genruntimeconfig.cache
+C:\Users\fmemm\source\repos\ConsoleAppcustomlist\ConsoleAppcustomlist\obj\Debug\net8.0\ref\ConsoleAppcustomlist.dll
